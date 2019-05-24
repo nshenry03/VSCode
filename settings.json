@@ -1,0 +1,13 @@
+{
+    "explorer.confirmDelete": false,
+    "projectTemplates.placeholders": {
+        "AUTHOR": "Nick Henry",
+        "AUTHORREF": "NSH",
+        "EMAIL": "nhenry@vmware.com",
+        "ORGANIZATION": "VMware, Inc.",
+        "COMPANY": "VMware, Inc.",
+        "COPYRIGHT": "Copyright (c) 2019, Nick Henry",
+        "LICENSE": "Proprietary - All Rights Reserved"
+   },
+   "insertDateString.format": "YYYY-MM-DD hh:mm"
+}
